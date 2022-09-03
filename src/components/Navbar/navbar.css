@@ -1,0 +1,13 @@
+.navbar {
+    background-color: purple;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 5%;
+}
+
+.iconMenu {
+    padding: 5px;
+    margin: 5px;
+}

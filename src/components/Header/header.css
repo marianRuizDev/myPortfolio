@@ -1,0 +1,19 @@
+.wraper {
+    position: fixed;
+    width: 100%;
+
+}
+
+.headerwrap {
+    position:relative;
+    height: 50px;
+
+}
+.logo {
+    background-color: transparent;
+    margin-left: 10px;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+
