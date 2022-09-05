@@ -1,19 +1,37 @@
 .wraper {
     position: fixed;
     width: 100%;
+    background-color: black;
+    
 
 }
 
 .headerwrap {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     position:relative;
-    height: 50px;
+    height: 100%;
 
 }
 .logo {
-    background-color: transparent;
-    margin-left: 10px;
-    padding: 10px;
+    padding-left: 10px;
     text-align: left;
-    font-size: 20px;
+    font-size: 30px;
+    color: white;
 }
 
+.socials {
+padding-right: 30px;
+text-align: right;
+}
+
+.links-nav {
+    font-size: 20px;
+    color: white;
+    align-self: center;
+}
+
+.links-header {
+    place-items: center;
+}

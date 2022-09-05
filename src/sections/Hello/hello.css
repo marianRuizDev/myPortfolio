@@ -9,14 +9,43 @@
 }
 
 
-
 .intro {
     display: grid;
     align-items: center;
 }
 
 .portada{
-    margin: 20px;
-   height: 600px;
-   width:  500px;
+    
+    height: 450px;
+    border-radius: 50%;
+}
+
+.profile-picture {
+    display: grid;
+    place-self: center;
+}
+
+.intro {
+    display: grid;
+    grid-template-rows: 40% 60%;
+    justify-items: center;
+}
+
+.home-desc {
+    color: white;
+    max-width: 450px
+}
+
+.home-title  {
+    padding: 10px;
+    font-size: 50px;
+    display: grid;
+    place-self: end center;
+    color: white;
+}
+
+.home-desc  {
+    font-size: 20px;
+    display: grid;
+    place-self: start center;
 }

@@ -3,8 +3,8 @@ import { IoMdMenu } from "react-icons/io";
 
 function Navbar() {
     return (
-        <div className="navbar">
-            <div className="iconMenu"><IoMdMenu size={30}/></div>
+        <div className="menu">
+            <div className="iconMenu"><IoMdMenu size={30} color={"white"}/></div>
         </div>
     )
 }

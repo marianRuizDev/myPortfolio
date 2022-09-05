@@ -1,0 +1,11 @@
+{
+    "projects": [
+        {
+            "name": "La Pluma",
+            "image": "../assets/img/La-pluma-home.png",
+            "alt": "Book E-commerce",
+            "description": "lorem ipsum asjnakdnaksdnaksdnkasdksajdsjksd",
+            "technology": "JavaScript"
+        }
+    ]
+}

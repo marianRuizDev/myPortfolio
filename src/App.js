@@ -6,12 +6,13 @@ import Projects from './sections/Projects/Projects';
 import Contact from './sections/Contact/Contact';
 import Header from './components/Header/Header';
 
+
+
 function App() {
   return (
     <div className="App">
     <Header />
     <Hello />
-
     <Projects />
     <Contact />
     </div>
